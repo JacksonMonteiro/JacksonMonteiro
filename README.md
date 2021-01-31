@@ -14,14 +14,15 @@ Still at school :school:
 
 <h2 align="center"> I'm currently learning </h2>
 
-* PHP
-* SQL (MySQL and MariaDB)
+* React and Redux
 
 <h3 align="center"> And I'm improving my skills on </h3>
 
 * HTML 
 * CSS
 * JavaScript
+* PHP
+* SQL (MySQL and MariaDB)
 
 <h4 align="center">See a little more about me</h4>
 
