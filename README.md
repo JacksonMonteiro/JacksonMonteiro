@@ -22,7 +22,7 @@ Still at school :school:
 * CSS
 * JavaScript
 * PHP
-* SQL (MySQL and MariaDB)
+* MySQL
 
 <h4 align="center">See a little more about me</h4>
 
