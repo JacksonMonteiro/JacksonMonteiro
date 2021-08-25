@@ -14,7 +14,7 @@ Still at school :school:
 
 <h2 align="center"> I'm currently learning </h2>
 
-* React and Redux
+* Typescript
 
 <h3 align="center"> And I'm improving my skills on </h3>
 
