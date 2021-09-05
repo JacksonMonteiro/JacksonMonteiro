@@ -28,7 +28,6 @@ Still at school :school:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JacksonMonteiro)](https://github.com/JacksonMonteiro)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jackson-monteiro-716353199)](https://www.linkedin.com/in/jackson-monteiro-716353199)
-[![Twitter URL](https://img.shields.io/twitter/url?color=Blue&label=Twitter&logo=Twitter&logoColor=White&style=flat-square&url=https%3A%2F%2Ftwitter.com%2FJacksonPaiva7)](https://www.twitter.com/JacksonPaiva7)
 
 <h2 align="center">Thanks for Visiting </h2>
 <!--
