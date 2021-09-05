@@ -8,10 +8,6 @@ Technology and code lover :heart:
 
 Computer technician :mortar_board:
 
-Musician :guitar:
-
-Still at school :school:
-
 <h2 align="center"> I'm currently learning </h2>
 
 * Typescript
