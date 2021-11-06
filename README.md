@@ -10,15 +10,15 @@ Computer technician :mortar_board:
 
 <h2 align="center"> I'm currently learning </h2>
 
-* Typescript
+* Sass
 
 <h3 align="center"> And I'm improving my skills on </h3>
 
-* HTML 
-* CSS
-* JavaScript
+* HTML and CSS
+* JavaScript and TypeScript
+* Jquery and Bootstrap
 * PHP
-* MySQL
+* SQL (MySQL and MariaDB)
 
 <h4 align="center">See a little more about me</h4>
 
