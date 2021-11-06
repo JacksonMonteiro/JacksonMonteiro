@@ -1,42 +1,107 @@
-<h1 align="center"> Welcome! Hi there 👋 </h1>
 
-<h2 align="center"> I'm Jackson! Let me present a little about myself :smiley: </h2>
 
-My objective is to become a FullStack developer, but for now, I'm focusing on the front-end and knowing new technologies :eyes::computer:
+<h1 align="center"> Seja bem-vindo! Tudo bem? Eu sou o Jackson! 😉 </h1>
 
-Technology and code lover :heart:
+## Deixa eu te apresentar um pouco sobre mim: 
+- 💻 Desenvolvedor Front-End mirando no Full-Stack
+- ❤ Amante de tecnologia e códigos
+- 👨‍💻 Freelancer
 
-Computer technician :mortar_board:
+<br>
 
-<h2 align="center"> I'm currently learning </h2>
+<div>
 
-* Sass
+<a href="https://github.com/jacksonmonteiro">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jacksonmonteiro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
-<h3 align="center"> And I'm improving my skills on </h3>
+</a>
 
-* HTML and CSS
-* JavaScript and TypeScript
-* Jquery and Bootstrap
-* PHP
-* SQL (MySQL and MariaDB)
+<br>
 
-<h4 align="center">See a little more about me</h4>
+<h2> Habilidades na Área de Tecnologia e Desenvolvimento </h2>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JacksonMonteiro)](https://github.com/JacksonMonteiro)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jackson-monteiro-716353199)](https://www.linkedin.com/in/jackson-monteiro-716353199)
+Aprender Futuramente | Aprendendo | Dominando    
+-------------------- | ---------- | ---------
+React | Sass | HTML5 e CSS3 
+Vue | TypeScript  | JavaScript - ECMAScript
+Angular | WebPack | Jquery 
+... | ... | Bootstrap
+... | ... | PHP
+... | ... | SQL (MySQL / MariaDB)
 
-<h2 align="center">Thanks for Visiting </h2>
-<!--
-**JacksonMonteiro/JacksonMonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  </br>
 
-Here are some ideas to get you started:
+  <a href="https://github.com/jacksonmonteiro">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonmonteiro&layout=compact&langs_count=7&theme=radical"/>
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+</div>  
+ 
+<br>
+
+
+
+<br>
+
+<div> 
+  <a href="https://www.instagram.com/_jackson_monteiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:infor.jackson324@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ojacksonmonteiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+<br>
+<br>
+<br>
+
+<h1 align="center"> Hey, Welcome! How is it going? I'm Jackson! 😉 </n1>
+
+<br>
+
+## Let me present a little about myself:
+- 💻 Front-End Developer targeting Full-Stack
+- ❤ Technology and Code lover
+- 👨‍💻 Freelancer
+
+<br>
+
+<div>
+
+<a href="https://github.com/jacksonmonteiro">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jacksonmonteiro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+
+</a>
+
+<br>
+
+<h2> Technology and Development Skilss </h2>
+
+Future Learning | Learning | Improving
+-------------------- | ---------- | ---------
+React | Sass | HTML5 e CSS3 
+Vue | TypeScript  | JavaScript - ECMAScript
+Angular | WebPack | Jquery 
+... | ... | Bootstrap
+... | ... | PHP
+... | ... | SQL (MySQL / MariaDB)
+
+  </br>
+
+  <a href="https://github.com/jacksonmonteiro">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonmonteiro&layout=compact&langs_count=7&theme=radical"/>
+  </a>
+
+  
+</div>  
+ 
+<br>
+
+<br>
+
+<div> 
+  <a href="https://www.instagram.com/_jackson_monteiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:infor.jackson324@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ojacksonmonteiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
