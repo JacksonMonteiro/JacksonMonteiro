@@ -22,10 +22,11 @@
 
 Aprender Futuramente | Aprendendo | Dominando    
 -------------------- | ---------- | ---------
-React | Sass | HTML5 e CSS3 
-Vue | TypeScript  | JavaScript - ECMAScript
-Angular | WebPack | Jquery 
-... | ... | Bootstrap
+React | TypeScript | HTML5 e CSS3 
+Vue | ...  | JavaScript - ECMAScript
+Angular | ... | Jquery 
+... | ... | Bootstrap e Sass
+... | ... | WebPack e Gulp
 ... | ... | PHP
 ... | ... | SQL (MySQL / MariaDB)
 
@@ -79,10 +80,11 @@ Angular | WebPack | Jquery
 
 Future Learning | Learning | Improving
 -------------------- | ---------- | ---------
-React | Sass | HTML5 e CSS3 
-Vue | TypeScript  | JavaScript - ECMAScript
-Angular | WebPack | Jquery 
-... | ... | Bootstrap
+React | TypeScript | HTML5 e CSS3 
+Vue | ...  | JavaScript - ECMAScript
+Angular | ... | Jquery 
+... | ... | Bootstrap e Sass
+... | ... | WebPack e Gulp
 ... | ... | PHP
 ... | ... | SQL (MySQL / MariaDB)
 
