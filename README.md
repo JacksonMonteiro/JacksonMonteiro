@@ -1,61 +1,3 @@
-
-
-<h1 align="center"> Seja bem-vindo! Tudo bem? Eu sou o Jackson! 😉 </h1>
-
-## Deixa eu te apresentar um pouco sobre mim: 
-- 💻 Desenvolvedor Front-End mirando no Full-Stack
-- ❤ Amante de tecnologia e códigos
-- 👨‍💻 Freelancer
-
-<br>
-
-<div>
-
-<a href="https://github.com/jacksonmonteiro">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jacksonmonteiro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-
-</a>
-
-<br>
-
-<h2> Habilidades na Área de Tecnologia e Desenvolvimento </h2>
-
-Aprender Futuramente | Aprendendo | Dominando    
--------------------- | ---------- | ---------
-React | TypeScript | HTML5 e CSS3 
-Vue | ...  | JavaScript - ECMAScript
-Angular | ... | Jquery 
-... | ... | Bootstrap e Sass
-... | ... | WebPack e Gulp
-... | ... | PHP
-... | ... | SQL (MySQL / MariaDB)
-
-  </br>
-
-  <a href="https://github.com/jacksonmonteiro">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonmonteiro&layout=compact&langs_count=7&theme=radical"/>
-  </a>
-
-  
-</div>  
- 
-<br>
-
-
-
-<br>
-
-<div> 
-  <a href="https://www.instagram.com/_jackson_monteiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:infor.jackson324@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ojacksonmonteiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-
-<br>
-<br>
-<br>
-
 <h1 align="center"> Hey, Welcome! How is it going? I'm Jackson! 😉 </n1>
 
 <br>
@@ -80,10 +22,10 @@ Angular | ... | Jquery
 
 Future Learning | Learning | Improving
 -------------------- | ---------- | ---------
-React | TypeScript | HTML5 e CSS3 
-Vue | ...  | JavaScript - ECMAScript
-Angular | ... | Jquery 
-... | ... | Bootstrap e Sass
+React | TypeScript | HTML5 and CSS3 
+Vue | Angular 9  | JavaScript and ECMAScript6+
+... | ... | Jquery and Bootstrap 
+... | ... | SASS 
 ... | ... | WebPack e Gulp
 ... | ... | PHP
 ... | ... | SQL (MySQL / MariaDB)
