@@ -23,9 +23,9 @@
 Future Learning | Learning | Improving
 -------------------- | ---------- | ---------
 React | TypeScript | HTML5 and CSS3 
-Vue | Angular 9  | JavaScript and ECMAScript6+
-... | Mobile Development | Jquery and Bootstrap 
-... | Java | SASS 
+Vue | Mobile Development | JavaScript and ECMAScript6+
+Angular | Java | Jquery and Bootstrap 
+... | ... | SASS 
 ... | ... | WebPack e Gulp
 ... | ... | PHP
 ... | ... | SQL (MySQL / MariaDB)
