@@ -27,7 +27,7 @@ Angular | Flutter | JavaScript and ECMAScript6+
 NextJS | System Architectures | Jquery, Bootstrap, Sass and Others
 ... | ... | PHP & SQL (MySQL, MariaDB, SQlite and PostgreSQL)
 ... | ... | React
-... | ... | Node
+... | ... | Node (Express, Sequelize, API REST build, etc)
 ... | ... | Mobile Development (Java - Flutter)
 
   </br>
