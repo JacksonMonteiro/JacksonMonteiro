@@ -23,12 +23,12 @@
 Future Learning | Learning | Improving
 -------------------- | ---------- | ---------
 Vue | TypeScript | HTML5 and CSS3 
-Angular | Flutter | JavaScript and ECMAScript6+
-NextJS | System Architectures | Jquery, Bootstrap, Sass and Others
+Angular | System Architectures | JavaScript and ECMAScript6+
+NextJS | ... | Jquery, Bootstrap, Sass and Others
 ... | ... | PHP & SQL (MySQL, MariaDB, SQlite and PostgreSQL)
 ... | ... | React
 ... | ... | Node (Express, Sequelize, API REST build, etc)
-... | ... | Mobile Development (Java - Flutter)
+... | ... | Mobile Development (Java and Flutter)
 
   </br>
 
