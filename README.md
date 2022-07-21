@@ -3,9 +3,9 @@
 <br>
 
 ## Let me present a little about myself:
-- 💻 Front-End Developer targeting Full-Stack
+- 💻 Full-Stack Developer (Front, Back and Mobile)
 - ❤ Technology and Code lover
-- 👨‍💻 Freelancer
+- 👨‍💻 Freelancer and Mobile Developer at the moment
 
 <br>
 
