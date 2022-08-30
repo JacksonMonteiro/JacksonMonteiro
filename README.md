@@ -3,9 +3,9 @@
 <br>
 
 ## Let me present a little about myself:
-- 💻 Full-Stack Developer (Front, Back and Mobile)
+- 💻 Mobile Developer
 - ❤ Technology and Code lover
-- 👨‍💻 Freelancer and Mobile Developer at the moment
+- 👨‍💻 Freelancer
 
 <br>
 
@@ -22,13 +22,14 @@
 
 Future Learning | Learning | Improving
 -------------------- | ---------- | ---------
-Vue | TypeScript | HTML5 and CSS3 
-Angular | System Architectures | JavaScript and ECMAScript6+
-NextJS | ... | Jquery, Bootstrap, Sass and Others
-... | ... | PHP & SQL (MySQL, MariaDB, SQlite and PostgreSQL)
-... | ... | React
+Vue | Kotlin | HTML5, CSS3 and JavaScript and ECMAScript6+
+Angular | System Architectures | JS & CSS Libraries
+NextJS | ... | PHP and Laravel 
+... | ... | Databases (MySQL, MariaDB, SQlite and PostgreSQL)
+... | ... | React and TypeScript
 ... | ... | Node (Express, Sequelize, API REST build, etc)
-... | ... | Mobile Development (Java and Flutter)
+... | ... | Android mobile development (Java - Kotlin)
+... | ... | Hybrid mobile development (Flutter)
 
   </br>
 
