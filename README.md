@@ -22,8 +22,8 @@
 
 Future Learning | Learning | Improving
 -------------------- | ---------- | ---------
-Vue | Kotlin | HTML5, CSS3 and JavaScript and ECMAScript6+
-Angular | System Architectures | JS & CSS Libraries
+Vue | C# | HTML5, CSS3 and JavaScript and ECMAScript6+
+Angular | ... | JS & CSS Libraries
 NextJS | ... | PHP and Laravel 
 ... | ... | Databases (MySQL, MariaDB, SQlite and PostgreSQL)
 ... | ... | React and TypeScript
