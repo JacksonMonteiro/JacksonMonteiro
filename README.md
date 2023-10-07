@@ -3,9 +3,10 @@
 <br>
 
 ## Let me present a little about myself:
-- 💻 Mobile Developer
-- ❤ Technology and Code lover
-- 👨‍💻 Freelancer
+- 👋 Hello, I'm Jackson
+- 💻 Mobile and Web Developer with high experience in Java, Flutter and JavaScript
+- ❤ Technology and Code lover, always learning 
+- 👨‍💻 Get in touch with me through my e-mail or social networks
 
 <br>
 
@@ -20,21 +21,14 @@
 
 <h2> Technology and Development Skilss </h2>
 
-Future Learning | Learning | Improving
--------------------- | ---------- | ---------
-Vue | C# | HTML5, CSS3 and JavaScript and ECMAScript6+
-Angular | ... | JS & CSS Libraries
-NextJS | ... | PHP and Laravel 
-... | ... | Databases (MySQL, MariaDB, SQlite and PostgreSQL)
-... | ... | React and TypeScript
-... | ... | Node (Express, Sequelize, API REST build, etc)
-... | ... | Android mobile development (Java - Kotlin)
-... | ... | Hybrid mobile development (Flutter)
+I have experience in different development and programming languagens. My main languages to work are: Java, Flutter and JavaScript (React and Node). I always learning more about software development and included in my learned tecnologies TypeScript, C#, Kotlin and a lot of Databases. 
 
-  </br>
+Always improving my skills in learned technologies and learning new things to be a better developer
+
+</br>
 
   <a href="https://github.com/jacksonmonteiro">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonmonteiro&layout=compact&langs_count=7&theme=radical"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonmonteiro&layout=compact&langs_count=8&theme=radical"/>
   </a>
 
   
