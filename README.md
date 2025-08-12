@@ -4,7 +4,7 @@
 
 ## Let me present a little about myself:
 - 👋 Hello, I'm Jackson
-- 💻 Mobile and Web Developer with high experience in Java, Flutter and JavaScript
+- 💻 Mobile Developer with high experience in Kotlin, Java, Flutter
 - ❤ Technology and Code lover, always learning 
 - 👨‍💻 Get in touch with me through my e-mail or social networks
 
