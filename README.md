@@ -12,10 +12,6 @@
 
 <div>
 
-<a href="https://github.com/jacksonmonteiro">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jacksonmonteiro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-
-</a>
 
 <br>
 
@@ -26,11 +22,6 @@ I have experience in different development and programming languagens. My main l
 Always improving my skills in learned technologies and learning new things to be a better developer
 
 </br>
-
-  <a href="https://github.com/jacksonmonteiro">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonmonteiro&layout=compact&langs_count=8&theme=radical"/>
-  </a>
-
   
 </div>  
  
